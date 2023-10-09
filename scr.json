@@ -4,7 +4,12 @@
 {
 "Platform 15437" : [Robin M]
   {
-  Status:"false"
+  Status:"false",
+  Access: NULL,
+  myTimeClock: PAY,
+  PAY: NULL,
+  PAY: 0,
+  MY_JSON_RUN_VAR: sriptVar
 }
 }
 }
